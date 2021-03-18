@@ -60,10 +60,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/photos.app.goo.gl\/jUJbtWpX8D6aKuU67"
+                 "value":"https:\/\/unikat-ilmenau.de\/video.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
                  "value":"https:\/\/unikat-ilmenau.de\/360-1.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
