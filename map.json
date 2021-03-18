@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.arduino.cc\/"
+                 "value":"https:\/\/unikat-ilmenau.de\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -57,7 +57,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
